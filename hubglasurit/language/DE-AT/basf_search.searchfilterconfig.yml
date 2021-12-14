@@ -1,0 +1,13 @@
+content_type_filter: Inhaltsarten
+product: Produkte
+business_process: 'Ratio Concept Plus'
+technical_process: Prozesse
+troubleshooting_article: 'Troubleshooting Articles'
+other: Weiteres
+filter_help: 'Filter Hilfe'
+show_filters: 'Filter anzeigen'
+hide_filters: 'Filter verstecken'
+sort_by: 'Sort by'
+sort_by_relevance: Relevanz
+sort_by_title: Title
+sort_by_changed: geändert

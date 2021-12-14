@@ -1,0 +1,4 @@
+terms: "<p>J'ai lu et compris les termes et conditions</p>\r\n"
+pending_email_body: 'La finalisation de votre compte est en attente de validation.'
+accepted_email_body: "Votre demande a été acceptée.\r\n\r\nVous pouvez maintenant vous connecter sous : https://info-rmpaint.com/user/login\r\n\r\nMerci et amusez-vous bien à explorer Info R-M !"
+rejected_email_body: "[user:display-name],\r\n\r\nUn administrateur de site à créer un compte pour vous. Vous pouvez vous connecter en cliquant sur ce lien ou en le copiant dans votre navigateur : \r\n[user:one-time-login-url]\r\n\r\nCe lient ne pourra être utilisé qu'une seule fois et vous permettra d'accéder à une page pour configurer votre mot de passe.\r\nAprès avoir entré votre mot de passe vous pourrez accéder au site [site:login-url] en utilisant :\r\n\r\nNom d''utilisateur : [user:name]\r\nMot de passe :  votre mot de passe \r\n\r\n-  [site:name] team"

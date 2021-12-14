@@ -1,0 +1,16 @@
+activity_type_filter: 'Activity Type'
+document_edited: 'Document Edited'
+document_published: 'Document Published'
+document_shared: 'Document Shared'
+account_changed: 'Account changed'
+content_type_filter: 'Content Type'
+product: Products
+troubleshooting_article: 'Troubleshooting Articles'
+business_process: 'Business Process'
+technical_process: 'Technical Process'
+collection_type_filter: 'Collection Type'
+your_collections: 'User Collections'
+followed_collections: 'Followed collections'
+apply_filter_button_text: Apply
+notifications_link_text: Notifications
+unread_notifications_link_text: 'Unread Notifications'

@@ -1,0 +1,5 @@
+terms: '<p>He leido y comprendo <a href="/es/politica-de-privacidad">POLÍTICA DE PRIVACIDAD</a></p>'
+data_topics: "<a href=\"/es/Aviso%20legal\">Aviso legal</a></p>\r\n"
+pending_email_body: 'Su solicitud para una cuenta está actualmente pendiente de aprobación'
+accepted_email_body: "Su solicitud ha sido aceptada.\r\n\r\nAhora puedes registrarte en: https://colorsystem-paint.com/user/login\r\n\r\n¡Muchas gracias y diviértete explorando la página web!"
+rejected_email_body: "Querido usuario,\r\n\r\ngracias por su petición de acceso e interés en nuestra plataforma.\r\n\r\nDesafortunadamente, no pudimos darle acceso. Esto puede ser debido a los siguientes motivos:\r\n- La plataforma no está actualmente gestionada en su país o lengiaje.\r\n- Podría no ser cliente actual de nuestras líneas de pintura.\r\n\r\nSi estos motivos no se le aplican, por favor contacta con tu proveedor local de pinturas.\r\n\r\nSaludos cordiales.\r\n\r\nTu equipo de apoyo."

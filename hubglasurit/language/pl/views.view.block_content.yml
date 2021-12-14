@@ -1,0 +1,15 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Apply
+          exposed_sorts_label: 'Sortuj według'
+      fields:
+        operations:
+          label: Operations
+      empty:
+        area_text_custom:
+          content: 'There are no custom blocks available. '
+  page_1:
+    display_title: Strona

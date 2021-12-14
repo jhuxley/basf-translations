@@ -1,0 +1,21 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Apply
+          exposed_sorts_label: 'Sortuj według'
+      pager:
+        options:
+          tags:
+            first: '« Pierwsza'
+            last: 'Ostatnia »'
+      fields:
+        name:
+          label: Użytkownik
+        group_roles:
+          label: Roles
+        dropbutton:
+          label: Operations
+  page_1:
+    display_title: Strona

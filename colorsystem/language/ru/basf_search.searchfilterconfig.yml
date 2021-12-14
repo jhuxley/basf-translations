@@ -1,0 +1,13 @@
+content_type_filter: 'Тип содержания'
+product: Продукция
+business_process: Услуги
+technical_process: Процессы
+troubleshooting_article: 'Troubleshooting Articles'
+other: Иное
+filter_help: 'Фильтр, помощь'
+show_filters: 'Показать фильтры'
+hide_filters: 'Скрыть фильтры'
+sort_by: 'Отсортировать по'
+sort_by_relevance: Релевантность
+sort_by_title: Заголовок
+sort_by_changed: Изменено

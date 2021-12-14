@@ -1,0 +1,40 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filter
+          exposed_sorts_label: 'Sortuj według'
+      pager:
+        options:
+          tags:
+            first: '« Pierwsza'
+            last: 'Ostatnia »'
+      fields:
+        name:
+          label: Username
+        status:
+          label: Status
+          settings:
+            format_custom_true: Aktywny
+            format_custom_false: Zablokowany
+        roles_target_id:
+          label: Roles
+        created:
+          label: 'Członek od'
+        operations:
+          label: Operations
+      filters:
+        status:
+          group_info:
+            label: Status
+            group_items:
+              1:
+                title: Aktywny
+              2:
+                title: Zablokowany
+        roles_target_id:
+          expose:
+            label: Role
+  page_1:
+    display_title: Strona

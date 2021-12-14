@@ -1,0 +1,5 @@
+terms: "<p>Ich habe die Datenschutzerklärung <a href=\"/de/privacy-policy\"> gelesen und verstanden</p>\r\n"
+data_topics: '<p><a href="/de/disclaimer">Disclaimer</a></p>'
+pending_email_body: 'Ihre Antragstellung für ein Konto steht derzeit noch aus.'
+accepted_email_body: "Ihre Anfrage wurde angenommen.\r\n\r\nSie können sich jetzt einloggen unter: https://knowhow.glasurit.com/user/login\r\n\r\nVielen Dank und viel Spaß beim Erkunden von Glasurit Know How!"
+rejected_email_body: "Vielen Dank für Ihre Anfrage und Ihr Interesse an unserer Plattform.\r\n\r\nLeider konnten wir Ihnen keinen Zugang gewähren. Dies kann folgende Gründe haben:\r\n- Die Plattform wird derzeit noch nicht in Ihrem Land oder Ihrer Sprache beworben\r\n- Möglicherweise sind Sie kein aktiver Kunde unserer Lacke\r\n\r\nWenn diese Gründe nicht auf Sie zutreffen, wenden Sie sich bitte an Ihren lokalen Ansprechpartner.\r\n\r\nIhr Support-Team"

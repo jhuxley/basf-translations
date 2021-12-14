@@ -1,0 +1,16 @@
+title: Contatto
+description: 'Basic email contact webform.'
+elements: "name:\n  '#title': Nome\nemail:\n  '#title': Email\nsubject:\n  '#title': Oggetto\nmessage:\n  '#title': Messaggio\n"
+settings:
+  confirmation_message: 'Il tuo messaggio è stato spedito'
+handlers:
+  email_confirmation:
+    label: 'Email confirmation'
+    settings:
+      from_name: _default
+      subject: '[webform_submission:values:subject:value]'
+  email_notification:
+    label: 'Email notification'
+    settings:
+      from_name: '[webform_submission:values:name:value]'
+      subject: '[webform_submission:values:subject:value]'

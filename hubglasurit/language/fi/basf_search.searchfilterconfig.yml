@@ -1,0 +1,15 @@
+content_type_filter: Sisältötyypit
+product: Tuotteet
+business_process: 'Ratio Concept Plus'
+technical_process: Prosessit
+troubleshooting_article: 'Artikkelien vianmääritys'
+other: Muut
+filter_help: 'Suodata ohje'
+show_filters: 'Näytä suodatus'
+hide_filters: 'Piilota suodatus'
+sort_by: Tilaa
+sort_by_relevance: Merkityksellinen
+sort_by_title: Otsikko
+sort_by_changed: Muutettu
+search_empty_text: '<p>Ikävä kyllä, ei osumia haulla.</p><p>Hakusuositus: Tarkista oikeinkirjoitus, kokeile yleisempiä sanoja, yritä samaa tarkoittavilla sanoillag.</p>'
+products_empty_text: '<p>Ikävä kyllä, ei osumia haulla.</p><p>Hakusuositus: Tarkista oikeinkirjoitus, kokeile yleisempiä sanoja, yritä samaa tarkoittavilla sanoillag.</p>'

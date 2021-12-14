@@ -1,0 +1,6 @@
+block_title: Download
+short_version_button_text: Kurzversion
+long_version_button_text: Vollversion
+pdf_disclaimer_text: 'Disclaimer Text'
+short_version_filename_prefix: kurz
+long_version_filename_prefix: lang

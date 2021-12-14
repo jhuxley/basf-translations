@@ -1,0 +1,5 @@
+block_title: 'Ladda ned'
+short_version_button_text: 'Kort version'
+long_version_button_text: 'Lång version'
+short_version_filename_prefix: kort
+long_version_filename_prefix: lång

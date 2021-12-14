@@ -1,0 +1,13 @@
+popup_hide_button_message: 隐藏
+popup_agreed:
+  value: "<h2>感谢你接受</h2>\r\n\r\n<p>您现在可以隐藏此消息或找到更多关于文档的信息。</p>\r\n"
+popup_agree_button_message: 好的，我同意。
+popup_disagree_button_message: 更多信息
+popup_find_more_button_message: 更多信息
+popup_info:
+  value: "<h2>我们在这个网站上使用它来增强您的用户体验。</h2>\r\n\r\n<p>点击本页上的任何链接，即表示您同意我们的设置。</p>\r\n"
+disagree_button_label: 不，谢谢。
+withdraw_message:
+  value: "<h2>我们在这个网站上使用它来增强您的用户体验。</h2>\r\n\r\n<p>您已经同意我们的设置。</p>\r\n"
+withdraw_action_button_label: 撤回准许
+withdraw_tab_button_label: 隐私设置

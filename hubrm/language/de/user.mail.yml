@@ -1,0 +1,26 @@
+register_admin_created:
+  body: "[Benutzer:Anzeigename],\r\n\r\nDer Administrator unter [site:name] hat ein Konto für Sie erstellt. Sie können sich nun anmelden, indem Sie auf diesen Link klicken oder den Link kopieren und in Ihren Browser einfügen:\r\n\r\n[Benutzer:one-time-login-url]\r\n\r\nDieser Link kann nur einmal zum Einloggen verwendet werden und führt Sie zu einer Seite, auf der Sie Ihr Passwort festlegen können.\r\n\r\nNachdem Sie Ihr Passwort eingegeben haben, können Sie sich in Zukunft unter [site:login-url] anmelden mit:\r\n\r\nBenutzername: [Benutzer:Name]\r\npasswort: Ihr passwort\r\n\r\n-- [site:name] Team"
+  subject: 'Administrator hat für Sie ein Konto unter [site:name] erstellt.'
+register_pending_approval:
+  body: "[Benutzer:Anzeigename],\r\n\r\nVielen Dank für Ihre Registrierung unter [site:name]. Ihre Anfrage muss derzeit genehmigt werden. Nach der Genehmigung erhalten Sie eine weitere E-Mail mit Informationen darüber, wie Sie sich anmelden und  Ihr Passwort festlegen.\r\n\r\n-- [site:name] Team"
+  subject: 'Kontodetails für [user:display-name] unter [site:name] (Genehmigung steht aus)'
+status_blocked:
+  body: "[user:display-name],\r\n\r\nIhr Account auf [site:name] wurde inaktiviert.\r\n\r\n--  [site:name] Team"
+  subject: 'Kontodetails  [user:display-name] für [site:name] (Deaktivierung)'
+cancel_confirm:
+  body: "[Benutzer:Anzeigename],\r\n\r\nEin Kündigungsantrag Ihres Kontos wurde unter [site:name] gestellt.\r\n\r\nSie können nun Ihr Konto auf [site:url-brief] kündigen, indem Sie auf diesen Link klicken oder den Link kopieren und in Ihren Browser einfügen:\r\n\r\n[Benutzer:cancel-url]\r\n\r\nHINWEIS: Die Kündigung Ihres Kontos ist lässt sich nicht rückgängig machen.\r\n\r\nDieser Link ist nur einen Tag gültig.\r\n\r\n-- [site:name] Team"
+  subject: 'Kontolöschungsantrag für [benutzer:anzeigename] unter [site:name]'
+password_reset:
+  body: "[Benutzer:Anzeigename],\r\n\r\nEine Anfrage zum Zurücksetzen des Passworts für Ihr Konto wurde unter [site:name] gestellt.\r\n\r\nSie können sich nun anmelden, indem Sie auf diesen Link klicken oder den Link kopieren und in Ihren Browser einfügen:\r\n\r\n[Benutzer:one-time-login-url]\r\n\r\nDieser Link kann nur einmal zum Einloggen verwendet werden und führt Sie zu einer Seite, auf der Sie Ihr Passwort festlegen können. Dieser Link ist nur einen Tag gültig.\r\n\r\n-- [site:name] Team"
+  subject: 'Änderung der Anmeldeinformationen für [benutzer:anzeigename] unter [site:name]'
+register_no_approval_required:
+  body: "[Benutzer:Anzeigename],\r\n\r\nVielen Dank für Ihre Registrierung unter [site:name]. Sie können sich nun anmelden, indem Sie auf diesen Link klicken oder den Link kopieren und in Ihren Browser einfügen:\r\n\r\n[Benutzer:one-time-login-url]\r\n\r\nDieser Link kann nur einmal zum Einloggen verwendet werden und führt Sie zu einer Seite, auf der Sie Ihr Passwort festlegen können.\r\n\r\nNachdem Sie Ihr Passwort eingegeben haben, können Sie sich in Zukunft unter [site:login-url] anmelden mit:\r\n\r\nBenutzername: [Benutzer:Name]\r\nPasswort: Ihr passwort\r\n\r\n-- [site:name] Team"
+  subject: 'Kontodetails für [benutzer:anzeigename] unter [site:name'
+register_pending_approval_admin:
+  body: "[user:display-name] hat einen Account angefragt.\r\n\r\n[user:edit-url]"
+  subject: 'Kontodetails für [user:display-name] unter [site:name] (Bestätigung steht aus)'
+status_activated:
+  body: "[Benutzer:Anzeigename],\r\n\r\nIhr Konto bei [site:name] wurde aktiviert.\r\n\r\nSie können sich nun anmelden, indem Sie auf diesen Link klicken oder den Link kopieren und in Ihren Browser einfügen:\r\n\r\n[Benutzer:one-time-login-url]\r\n\r\nDieser Link kann nur einmal zum Einloggen verwendet werden und führt Sie zu einer Seite, auf der Sie Ihr Passwort festlegen können.\r\n\r\nNachdem Sie Ihr Passwort eingegeben haben, können Sie sich in Zukunft unter [site:login-url] anmelden mit:\r\n\r\nBenutzername: [Benutzer:Kontoname]\r\nPasswort: Ihr passwort\r\n\r\n-- [site:name] Team"
+  subject: 'Kontodetails [user:display-name] auf [site:name] (bestätigt)'
+status_canceled:
+  body: "[user:display-name],\r\n\r\nYour account on [site:name] has been canceled.\r\n\r\n--  [site:name] team"

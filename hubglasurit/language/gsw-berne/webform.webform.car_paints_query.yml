@@ -1,0 +1,3 @@
+title: 'Autolack Abfrage'
+description: 'Fragen im Zusammenhang mit Autolack.'
+elements: "paint_query_title:\n  '#title': Titel\npaint_query_description:\n  '#title': Beschreibung\n"

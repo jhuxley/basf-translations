@@ -1,0 +1,16 @@
+activity_type_filter: Aktivitätsart
+document_edited: 'Dokument bearbeitet'
+document_published: 'Dokument veröffentlicht'
+document_shared: 'Dokument geteilt'
+added_to_collection: 'Dokument wurde zur Sammlung hinzugefügt'
+account_changed: 'Account geändert'
+training_document_edit_grant: 'Neues Tariningsdokument, welches bearbeitet werden kann'
+content_type_filter: Inhaltsart
+product: Products
+troubleshooting_article: 'Troubleshooting Articles'
+business_process: Businessprozess
+technical_process: 'Technischer Prozess'
+collection_type_filter: Sammlungsart
+your_collections: 'User Collections'
+followed_collections: 'Followed Collections'
+unread_notifications_link_text: 'Ungelesene Benachrichtigungen'

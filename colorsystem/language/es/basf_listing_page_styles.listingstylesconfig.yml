@@ -1,0 +1,12 @@
+troubleshooting_article_listing_text: 'Aquí puede encontrar información útil si ya hay un defecto en la pintura.'
+product_listing_text: "Aquí puede buscar todos los productos utilizados para la reparación de vehículos de pasajeros.\r\nEncontrará la TDS y la MSDS a nivel de artículo.\r\n"
+business_process_listing_text: "Aquí puede encontrar todos los procesos utilizados para hacer que el taller sea más eficiente y productivo.\r\n"
+technical_process_listing_text: 'Descubra cómo utilizar los productos y qué proceso se puede aplicar cómo'
+technical_processes_search_title: '¿Qué estás buscando?'
+technical_processes_search_placeholder: 'ngrese una palabra clave o ID de proceso'
+products_search_title: '¿Qué estás buscando?'
+products_search_placeholder: 'ngrese una palabra clave o ID de poducto'
+business_processes_search_title: '¿Qué estás buscando?'
+business_processes_search_placeholder: 'ngrese una palabra clave o ID de proceso'
+help_search_title: '¿Qué estás buscando?'
+help_search_placeholder: 'ngrese una palabra clav'

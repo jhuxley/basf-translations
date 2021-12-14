@@ -1,0 +1,9 @@
+title: Contacto
+description: 'Formulario de contacto '
+settings:
+  confirmation_message: 'Su mensaje há sido enviado.'
+handlers:
+  email_confirmation:
+    label: 'Confirmación de Email'
+  email_notification:
+    label: 'Notificación de Email'

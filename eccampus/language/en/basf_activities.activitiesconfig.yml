@@ -1,0 +1,19 @@
+activity_type_filter: 'Activity Type Filter'
+document_edited: 'Document Edited'
+document_published: 'Document Published'
+document_shared: 'Document Shared'
+added_to_collection: 'Document Added to Followed Collection'
+account_changed: 'Account Changed'
+training_document_edit_grant: 'New Training Document that you can edit'
+component_edited: 'Component edited in a Training Document that you can edit'
+content_type_filter: 'Content Type Filter'
+product: Product
+troubleshooting_article: 'Troubleshooting Article'
+business_process: 'Business process'
+technical_process: 'Technical process'
+collection_type_filter: 'Collection Type Filter'
+your_collections: 'User collections'
+followed_collections: 'Followed collections'
+apply_filter_button_text: Apply
+notifications_link_text: Notifications
+unread_notifications_link_text: 'Unread Notifications'

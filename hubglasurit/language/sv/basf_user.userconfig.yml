@@ -1,0 +1,5 @@
+terms: '<p>Jag har läst och förstått <a href="/sv/privacy-policy">villkoren</a></p>'
+data_topics: '<p><a href="/sv/disclaimer">Data-ämnen</a></p>'
+pending_email_body: 'Din ansökan om konto väntar på godkännande.'
+accepted_email_body: 'Din ansökan har godkänts.'
+rejected_email_body: 'Din ansökan har blivit avvisad.'

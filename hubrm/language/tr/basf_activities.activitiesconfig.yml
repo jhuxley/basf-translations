@@ -1,0 +1,19 @@
+activity_type_filter: 'Aktivite Türü'
+document_edited: 'Döküman düzenlendi'
+document_published: 'Döküman Yayınlandı'
+document_shared: 'Döküman Paylaşıldı'
+added_to_collection: 'Döküman koleksiyona eklendi'
+account_changed: 'Kullanıcı değişti'
+training_document_edit_grant: 'Düzenleyebileceğin yeni döküman'
+component_edited: 'Eğitim belgeinde düzenleyebileceğiniz bileşen '
+content_type_filter: 'İçerik Türü'
+product: Ürünler
+troubleshooting_article: 'Sorun gidermeye yönelik yazılar '
+business_process: 'İş Süreçleri'
+technical_process: 'Teknik süreçler'
+collection_type_filter: 'Koleksiyon Türü'
+your_collections: 'Kullanıcı koleksiyonları'
+followed_collections: 'Takip eden koleksiyonlar'
+apply_filter_button_text: Apply
+notifications_link_text: Bildirimler
+unread_notifications_link_text: 'Okunmamış Bildirimler'

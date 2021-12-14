@@ -1,0 +1,13 @@
+content_type_filter: 内容类型
+product: 产品
+business_process: Vision360
+technical_process: 工艺
+troubleshooting_article: 缺陷修补
+other: 其他
+sort_by: 排序
+sort_by_relevance: 相关
+sort_by_title: 标题
+sort_by_changed: 已变更
+filter_help: 帮助
+show_filters: 显示
+hide_filters: 隐藏

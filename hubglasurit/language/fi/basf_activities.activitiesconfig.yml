@@ -1,0 +1,19 @@
+activity_type_filter: 'Toiminnan tyyppi'
+document_edited: 'Asiakirjaa muokattu'
+document_published: 'Asiakirja julkaistu'
+document_shared: 'Asiakirja jaettu'
+added_to_collection: 'Dukumentti lisätty seurattuun kokoelmaan'
+account_changed: 'Tili vaihdettu'
+training_document_edit_grant: 'Uusi koulutus dokumentti jota voit muokata'
+component_edited: 'Komponentti muokattu koulutusdokumentissä jota sinäkin voit muokata'
+content_type_filter: Sisältötyyppi
+product: Tuotteet
+troubleshooting_article: 'Artikkelien vianmääritys'
+business_process: Liiketoimintaprosessi
+technical_process: Tekninenprosessi
+collection_type_filter: 'Kokoelman tyyppi'
+your_collections: 'Käyttäjän kokoelma'
+followed_collections: 'Seuratut kokoelmat'
+apply_filter_button_text: Käytä
+notifications_link_text: Ilmoitukset
+unread_notifications_link_text: 'Lukemattomat ilmoitukset'

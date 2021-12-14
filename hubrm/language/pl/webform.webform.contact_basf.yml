@@ -1,0 +1,5 @@
+title: 'Kontakt z BASF'
+description: 'Użyj tego formularza, aby skontaktować się z&nbsp, najwłaściwszą osobą w BASF.'
+elements: "name:\n  '#middle__title': Środkowy\n  '#suffix__title': Przyrostek\n  '#degree__title': Stopień\ncomment:\n  '#title': Komentarz\n"
+settings:
+  confirmation_message: 'Dziękujemy za zgłoszenie.'

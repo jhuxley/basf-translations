@@ -1,0 +1,47 @@
+label: Treść
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filter
+          exposed_sorts_label: 'Sortuj według'
+      pager:
+        options:
+          tags:
+            first: '« Pierwsza'
+            last: 'Ostatnia »'
+      fields:
+        title:
+          label: Tytuł
+        name:
+          label: Author
+        status:
+          label: Status
+          settings:
+            format_custom_true: Published
+        operations:
+          label: Operations
+      filters:
+        title:
+          expose:
+            label: Tytuł
+        status:
+          expose:
+            label: Status
+          group_info:
+            label: 'Published status'
+            group_items:
+              1:
+                title: Published
+        langcode:
+          expose:
+            label: Language
+      title: Treść
+  page_1:
+    display_options:
+      menu:
+        title: Treść
+      tab_options:
+        title: Treść
+    display_title: Strona

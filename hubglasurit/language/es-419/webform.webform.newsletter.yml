@@ -1,0 +1,4 @@
+description: 'Suscribase a nuestro Newsletter'
+elements: ''
+settings:
+  confirmation_message: 'Muchas gracias por la suscripción.'

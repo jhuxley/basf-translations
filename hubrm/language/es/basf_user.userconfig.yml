@@ -1,0 +1,5 @@
+terms: "<p>He leido y comprendo los <a href=\"/es/privacy-policy\">términos y condiciones</a></p>\r\n"
+data_topics: "<p><a href=\"/es/Aviso%20legal\">Datos tópicos</a></p>\r\n"
+pending_email_body: 'La solicitud para tu cuenta esá pendiente de aprobación.'
+accepted_email_body: 'Su solicitudad ha sido aceptada. '
+rejected_email_body: 'Su solicitud ha sido rechazada.'

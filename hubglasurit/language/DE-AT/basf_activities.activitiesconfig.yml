@@ -1,0 +1,18 @@
+activity_type_filter: Aktivitätstyp
+document_edited: 'Dokument bearbeitet'
+document_published: 'Dokument veröffentlicht'
+document_shared: 'Dokument geteilt'
+added_to_collection: 'Dokument zu "Ich folge" hinzugefügt.'
+account_changed: 'Account bearbeitet.'
+training_document_edit_grant: 'Neues Trainingsdokument, das bearbeitet werden kann.'
+component_edited: 'Eine Komponente innerhalb eines bearbeitbaren Trainingsdokuments wurde geändert.'
+content_type_filter: Kategorien
+product: Produkte
+troubleshooting_article: 'Troubleshooting Articles'
+business_process: 'Ratio Concept Plus'
+technical_process: Prozesse
+collection_type_filter: 'Art der Sammlung'
+your_collections: 'Meine Sammlungen'
+followed_collections: 'Ich folge'
+notifications_link_text: Benachrichtigungen
+unread_notifications_link_text: 'Ungelesene Benachrichtigungen'

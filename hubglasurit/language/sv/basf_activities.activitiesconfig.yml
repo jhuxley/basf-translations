@@ -1,0 +1,19 @@
+activity_type_filter: Aktivitetstyp
+document_edited: 'Dokument Redigerat'
+document_published: 'Dokument Publicerat'
+document_shared: 'Dokument Delat'
+added_to_collection: 'Dokument har lagts till i Delade Samlingar'
+account_changed: 'Konto ändrat'
+training_document_edit_grant: 'Nytt Träningsdokument som du kan redigera'
+component_edited: 'Komponent ändrat i ett Träningsdokument som du kan redigera'
+content_type_filter: Innehållstyp
+product: Produkt
+troubleshooting_article: Felsökningsartikel
+business_process: Affärsprocess
+technical_process: 'Teknisk Process'
+collection_type_filter: Samlingstyp
+your_collections: 'Samlingar Användare'
+followed_collections: 'Delade Samlingar'
+apply_filter_button_text: Verkställ
+notifications_link_text: Meddelanden
+unread_notifications_link_text: 'Olästa Meddelanden'

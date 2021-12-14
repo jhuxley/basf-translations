@@ -1,0 +1,19 @@
+activity_type_filter: 'Tipo de actividad'
+document_edited: 'Documento editado'
+document_published: 'Documento publicado'
+document_shared: 'Documento compartido'
+added_to_collection: 'Documento agregado a la colección de seguidores'
+account_changed: 'Cuenta modificada'
+training_document_edit_grant: 'Nuevo documento de entrenamiento editable'
+component_edited: 'Componente editado en un documento de capacitación que puede editar'
+content_type_filter: 'Tipo de contenido'
+product: Producto
+troubleshooting_article: 'Solución de problemas del artículo'
+business_process: 'Proceso de negocios'
+technical_process: 'Proceso Técnico'
+collection_type_filter: 'Tipo de colección'
+your_collections: 'Colección del usuario'
+followed_collections: 'Colecciones seguidas'
+apply_filter_button_text: Apply
+notifications_link_text: Notificaciones
+unread_notifications_link_text: 'Notificaciones sin leer'

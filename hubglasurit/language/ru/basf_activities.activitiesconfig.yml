@@ -1,0 +1,19 @@
+activity_type_filter: 'Фильтр форматов действий'
+document_edited: 'Модуль изменен.'
+document_published: 'Публикация документации'
+document_shared: 'Поделились новым документом'
+added_to_collection: 'Новы модуль в коллекции, на которую подписаны'
+account_changed: 'Изменение аккаунта'
+training_document_edit_grant: 'Новая инструкция, которую можно редактировать'
+component_edited: 'В документ, который Вы можете править, внесены изменения. '
+content_type_filter: Тема
+product: Продукты
+troubleshooting_article: 'Статьи, посвященные решению проблем'
+business_process: 'Категории бизнес-процессов'
+technical_process: Процессы
+collection_type_filter: Коллекции
+your_collections: 'Коллекция пользователя'
+followed_collections: 'Отслеживаемые коллекции'
+apply_filter_button_text: Применить
+notifications_link_text: Уведомления
+unread_notifications_link_text: 'Новые уведомления'

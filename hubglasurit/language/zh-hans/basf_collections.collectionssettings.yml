@@ -1,0 +1,15 @@
+block_title: 添加到收藏
+new_collection_link_text: 创建新的收藏
+back_link_text: 返回
+rename_collection_text: 重新命名收藏
+share_collection_text: 分享收藏
+delete_collection_text: 删除收藏
+download_collection_text: 下载收藏
+no_collections_found_text: 未找到收藏
+collection_download_error_text: 该收藏未能下载
+manage_collections_plural_text: 管理收藏
+manage_collection_singular_text: 管理收藏
+no_items_found_text: 收藏为空
+followed_collections_text: 随后集合
+follow_this_collection_text: 跟随该收藏
+delete_collection_confirmation_text: 您确定要删除吗

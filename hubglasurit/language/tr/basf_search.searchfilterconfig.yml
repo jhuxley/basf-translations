@@ -1,0 +1,15 @@
+content_type_filter: 'İçerik Türü'
+product: Ürünler
+business_process: 'Ratio Concept Plus'
+technical_process: Süreçler
+troubleshooting_article: 'Sorun gidermeye yönelik yazılar '
+other: Diğer
+filter_help: 'Filtre yardımı'
+show_filters: 'Filtreleri göster'
+hide_filters: 'Filterleri sakla'
+sort_by: 'Sort by'
+sort_by_relevance: İlgili
+sort_by_title: Title
+sort_by_changed: Değiştirildi
+search_empty_text: '<p>Üzgünüz, aramanız ile eşleşen bir sonuç bulunamadı.</p><p>Arama önerileri : Kelimelerin doğruluğunu kontrol ediniz, aynı anlama gelen farklı bir anahtar sözcük ile deneyiniz. </p>'
+products_empty_text: '<p>Üzgünüz, aramanız ile eşleşen bir sonuç bulunamadı.</p><p>Arama önerileri : Kelimelerin doğruluğunu kontrol ediniz, aynı anlama gelen farklı bir anahtar sözcük ile deneyiniz. </p>'

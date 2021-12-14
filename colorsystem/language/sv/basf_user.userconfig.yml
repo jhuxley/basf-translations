@@ -1,0 +1,5 @@
+terms: "<p>Jag har läst och förstått villkoren</p>\r\n"
+data_topics: "<p>Data-ämnen</p>\r\n"
+pending_email_body: 'Din ansökan om konto väntar på godkännande.'
+accepted_email_body: 'Din ansökan har godkänts.'
+rejected_email_body: 'Din ansökan har blivit avvisad.'

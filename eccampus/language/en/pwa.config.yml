@@ -1,0 +1,4 @@
+start_url: /
+lang: en
+urls_to_exclude: "admin/.*\r\nuser/.*"
+cache_version: '1'

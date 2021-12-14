@@ -1,0 +1,5 @@
+terms: "<p>本人已阅读并理解本<a href=\"https://knowhow.glasurit.com/legal-notices-and-data-protection\">条款和条件</a></p>\r\n"
+pending_email_body: 您的账户申请当前正在等待批准。
+accepted_email_body: "您的申请已受理。\r\n\r\n您现在可以登录：https://knowhow.glasurit.com/user/login\r\n\r\n感谢您的申请，开始畅享鹦鹉专业知识吧！"
+rejected_email_body: "亲爱的用户：\r\n\r\n感谢您对本平台的申请和关注。\r\n\r\n遗憾的是，由于下述原因，我们无法授予您访问权限：\r\n-\t本平台当前不支持您所在国家或语言的访问。\r\n-\t您可能不是我们油漆产品线的活跃客户。\r\n\r\n如果不是上述原因，请联系您当地的油漆供应联系人。\r\n\r\n谨上\r\n\r\n您的支持团队\r\n"
+data_topics: "<p><a href=\"https://knowhow.glasurit.com/legal-notices-and-data-protection\">数据政策 </a></p>\r\n"

@@ -1,0 +1,2 @@
+register_pending_approval:
+  body: "[user:display-name],\n\nThank you for registering at [site:name]. Your application for an account is currently pending approval. Once it has been approved, you will receive another email containing information about how to log in, set your password, and other details.\n\n\n--  [site:name] team"

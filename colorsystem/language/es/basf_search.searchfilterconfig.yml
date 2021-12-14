@@ -1,0 +1,18 @@
+content_type_filter: 'Tipos de Contenido'
+product: Productos
+business_process: Servicios
+technical_process: Procesos
+troubleshooting_article: 'Artículos de resolución de Problemas'
+other: Otro
+filter_help: 'Filtro ayuda'
+show_filters: 'Enseñar filtros'
+hide_filters: 'Esconder filtros'
+sort_by: 'Sort by'
+sort_by_relevance: Relevancia
+sort_by_title: Title
+sort_by_changed: Cambiado
+business_processes_empty_text: "<p>Lo sentimos, no hay resultados que coincidan con su búsqueda.\r\n\r\nSugerencias de búsqueda: revisa tu ortografía, prueba con palabras más generales, prueba con palabras diferentes que signifiquen lo mismo.</p>"
+technical_processes_empty_text: "<p>Lo sentimos, no hay resultados que coincidan con su búsqueda.\r\n\r\nSugerencias de búsqueda: revisa tu ortografía, prueba con palabras más generales, prueba con palabras diferentes que signifiquen lo mismo.</p>"
+help_empty_text: "<p>Lo sentimos, no hay resultados que coincidan con su búsqueda.\r\n\r\nSugerencias de búsqueda: revisa tu ortografía, prueba con palabras más generales, prueba con palabras diferentes que signifiquen lo mismo.</p>"
+search_empty_text: "<p>Lo sentimos, no hay resultados que coincidan con su búsqueda.\r\n\r\nSugerencias de búsqueda: revisa tu ortografía, prueba con palabras más generales, prueba con palabras diferentes que signifiquen lo mismo.</p>"
+products_empty_text: "<p>Lo sentimos, no hay resultados que coincidan con su búsqueda.\r\n\r\nSugerencias de búsqueda: revisa tu ortografía, prueba con palabras más generales, prueba con palabras diferentes que signifiquen lo mismo.</p>"
