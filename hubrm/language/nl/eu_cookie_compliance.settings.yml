@@ -1,1 +1,13 @@
-popup_hide_button_message: Verbergen
+popup_agreed:
+  value: "<h2>Bedankt voor het accepteren van cookies</h2>\r\n\r\n<p>U kunt dit bericht nu verbergen of meer te weten komen over cookies.</p>\r\n"
+popup_agree_button_message: 'OK, Ik ben akkoord.'
+popup_disagree_button_message: 'Meer info'
+popup_find_more_button_message: 'Meer info'
+popup_hide_button_message: Verberg
+popup_info:
+  value: "<h2>Wij gebruiken cookies op deze site om uw gebruikerservaring te verbeteren.</h2>\r\n\r\n<p>Door op een link op deze pagina te klikken geeft u ons uw toestemming om cookies te plaatsen.</p>\r\n"
+disagree_button_label: 'Nee, dank u'
+withdraw_message:
+  value: "<h2>Wij gebruiken cookies op deze site om uw gebruikerservaring te verbeteren.</h2>\r\n\r\n<p>U heeft ons toestemming gegeven om cookies te plaatsen.</p>\r\n"
+withdraw_action_button_label: 'Toestemming intrekken'
+withdraw_tab_button_label: 'Privacy instellingen'

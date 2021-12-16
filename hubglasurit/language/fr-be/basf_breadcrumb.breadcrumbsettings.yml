@@ -1,3 +1,8 @@
-technical_process_listing_text: Processus
-troubleshooting_article_listing_text: Support
+business_process_listing_url: /processus-commerciaux
+business_process_listing_text: 'Solutions commerciales avancées'
+technical_process_listing_url: '/procédés techniques'
+technical_process_listing_text: procédés
+troubleshooting_article_listing_url: /aide
+troubleshooting_article_listing_text: 'Centre d''aide'
+product_listing_url: /produits
 product_listing_text: Produits

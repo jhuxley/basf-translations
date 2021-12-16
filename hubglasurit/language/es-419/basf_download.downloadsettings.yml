@@ -1,7 +1,6 @@
-block_title: Download
-short_version_button_text: 'Short version'
-long_version_button_text: 'Long version'
-pdf_disclaimer_text: 'Disclaimer text'
-pdf_disclaimer_title: Disclaimer
-short_version_filename_prefix: short
-long_version_filename_prefix: long
+block_title: 'Descargar '
+short_version_button_text: 'Versión corta'
+long_version_button_text: 'Versión larga'
+pdf_disclaimer_text: 'Los datos contenidos en esta publicación se basan en nuestro conocimiento y experiencia actuales. En vista de los muchos factores que pueden afectar el procesamiento y la aplicación de nuestros productos, estos datos no alivian a los aplicadores de realizar sus propias investigaciones y pruebas; ni estos datos implican ninguna garantía de ciertas propiedades, ni la idoneidad de los productos para un propósito específico. Las descripciones, dibujos, fotografías, datos, proporciones, pesos, etc. que se proporcionan en este documento son solo para fines de información general; pueden cambiar sin información previa y no constituyen la calidad contractual acordada de los productos (especificación del producto). La última versión reemplaza a todas las versiones anteriores. Puede obtener la última versión de nuestro sitio web en http://techinfo.glasurit.com o directamente de su distribuidor. Es responsabilidad del destinatario de nuestros productos garantizar que se respeten los derechos de propiedad y las leyes y leyes existentes.'
+short_version_filename_prefix: corto
+long_version_filename_prefix: largo

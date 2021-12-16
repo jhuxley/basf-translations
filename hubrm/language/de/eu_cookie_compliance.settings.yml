@@ -1,1 +1,7 @@
-popup_hide_button_message: Ausblenden
+popup_agreed:
+  value: "<h2>Vielen Dank, dass Sie Cookies akzeptieren</h2>\r\n\r\n<p>Sie können diese Nachricht jetzt ausblenden oder mehr über Cookies erfahren.</p>\r\n"
+popup_agree_button_message: 'Ok, ich stimme zu'
+popup_disagree_button_message: 'Ok, ich stimme zu'
+popup_find_more_button_message: 'Mehr Info '
+popup_info:
+  value: "<h2>Wir verwenden Cookies auf dieser Website, um Ihre Benutzererfahrung zu verbessern</h2>\r\n\r\n<p>Durch Klicken auf einen Link auf dieser Seite erklären Sie sich damit einverstanden, dass wir Cookies setzen.</p>\r\n"

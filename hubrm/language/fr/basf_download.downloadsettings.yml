@@ -1,1 +1,5 @@
-block_title: Download
+block_title: 'Télécharger '
+short_version_button_text: 'Version courte '
+long_version_button_text: 'Version longue '
+short_version_filename_prefix: 'court '
+long_version_filename_prefix: 'long '

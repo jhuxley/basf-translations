@@ -1,2 +1,4 @@
-back_link_text: Back
-cancel_link_text: Cancel
+back_link_text: 'Retour '
+cancel_link_text: 'Supprimer '
+new_training_document_link_text: 'Créer un nouveau document de formation '
+view_all_training_documents_link_text: 'Afficher tous les documents de formation '

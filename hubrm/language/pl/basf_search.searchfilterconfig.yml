@@ -11,8 +11,8 @@ sort_by: 'Sortuj według'
 sort_by_relevance: Trafność
 sort_by_title: Tytuł
 sort_by_changed: Zmiana
+business_processes_empty_text: '<p>Brak wyników powiązanych z szukanym hasłem.</p><p>Sugestie wyszukiwania: sprawdź pisownię, spróbuj użyć bardziej ogólnych pojęć lub wyrazów bliskoznacznych.</p>'
+technical_processes_empty_text: '<p>Brak wyników powiązanych z szukanym hasłem.</p><p>Sugestie wyszukiwania: sprawdź pisownię, spróbuj użyć bardziej ogólnych pojęć lub wyrazów bliskoznacznych.</p>'
+help_empty_text: '<p>Brak wyników powiązanych z szukanym hasłem.</p><p>Sugestie wyszukiwania: sprawdź pisownię, spróbuj użyć bardziej ogólnych pojęć lub wyrazów bliskoznacznych.</p>'
 search_empty_text: '<p>Brak wyników powiązanych z szukanym hasłem.</p><p>Sugestie wyszukiwania: sprawdź pisownię, spróbuj użyć bardziej ogólnych pojęć lub wyrazów bliskoznacznych.</p>'
 products_empty_text: '<p>Brak wyników powiązanych z szukanym hasłem.</p><p>Sugestie wyszukiwania: sprawdź pisownię, spróbuj użyć bardziej ogólnych pojęć lub wyrazów bliskoznacznych.</p>'
-business_processes_empty_text: ''
-technical_processes_empty_text: ''
-help_empty_text: ''

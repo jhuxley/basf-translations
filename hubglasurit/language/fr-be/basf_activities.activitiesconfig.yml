@@ -1,13 +1,18 @@
-activity_type_filter: 'Activity Type'
-account_changed: 'Account changed'
-content_type_filter: 'Content Type'
-product: Products
-troubleshooting_article: 'Troubleshooting Articles'
-business_process: 'Business Process'
-technical_process: 'Technical Process'
-collection_type_filter: 'Collection Type'
-your_collections: 'User Collections'
-followed_collections: 'Followed collections'
-apply_filter_button_text: Apply
-notifications_link_text: Notifications
-unread_notifications_link_text: 'Unread Notifications'
+activity_type_filter: 'Type d''activité '
+document_edited: 'Document Edité'
+document_published: 'Document publié '
+document_shared: 'Document partagé'
+added_to_collection: 'Document ajouté à la collection '
+account_changed: 'Compte changé'
+training_document_edit_grant: 'Nouveau document de formation que vous pouvez éditer '
+component_edited: 'Information éditée dans un programme de formation que vous pouvez éditer '
+content_type_filter: 'Type de contenu '
+product: Produits
+troubleshooting_article: 'Articles de dépannage'
+business_process: 'Procédé d''affaires '
+technical_process: 'Procédé technique'
+collection_type_filter: 'Type de collection '
+your_collections: 'Collections de l''utilisateur '
+followed_collections: 'Collections suivies '
+apply_filter_button_text: Appliquer
+unread_notifications_link_text: ' Notifications non lues '
