@@ -1,0 +1,9 @@
+uuid: 7e4940e2-5301-418c-a968-7f83d6c4771e
+langcode: es
+status: true
+dependencies: {  }
+id: es
+label: Spain
+direction: ltr
+weight: -1
+locked: false

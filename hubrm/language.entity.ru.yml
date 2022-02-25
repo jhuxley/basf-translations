@@ -1,0 +1,15 @@
+uuid: 66063acd-50d2-4930-8a69-bf6be160df7a
+langcode: ru
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: ru
+label: Russia
+direction: ltr
+weight: 2
+locked: false

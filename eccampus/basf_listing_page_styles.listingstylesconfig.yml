@@ -1,0 +1,19 @@
+_core:
+  default_config_hash: _mzpvk_UnTouJIzIN4szlqi_K-yB55mQk_1TuIak-xs
+troubleshooting_article_listing_text: "Die Lackherstellung ist das Herzstück unseres Geschäftes. Nicht nur die effiziente Nutzung der zur Verfügung stehenden Ressourcen, wie Fachkräfte, Rohstoffe, Energie und Einrichtung entscheidet über die Wettbewerbsfähigkeit auch die gleichbleibende hohe Qualität der Produkte. \r\nDazu finden wir in diesem Teil hilfreiche Informationen, die den gesamten Lackfertigungsprozess abdecken. "
+product_listing_text: 'Etiam vel mi nunc. Donec quis semper eros, ac lobortis nisi. Praesent nisi magna, fringilla id pharetra at, placerat at velit. Mauris accumsan turpis eget mauris tempor, id porta eros laoreet.'
+business_process_listing_text: 'Die Laborwelt bei der BASF Coatings ist weit gefasst und genauso variantenreich sind die Aufgaben und Fragestellungen. Neben der klassischen Analytik beschäftigen uns die Herausforderungen aus der Lackentwicklung und Kundenanpassung, der Forschung und der Produktprüfung. Für diese ganz unterschiedlichen Themenfelder haben wir in folgenden Blöcken hilfreiche Informationen zusammengestellt. '
+technical_process_listing_text: 'Lack in der Dose ist lediglich ein Zwischenprodukt. Erst die Applikation macht den Lack zu dem, was der Kunde wünscht. Daher ist neben der eigentlichen Lackformulierung die geschickte Verarbeitung ein elementarer Baustein. Aber wie kommt der Lack auf das Objekt und wie können wir die Abläufe optimal gestallten, um Ressourcen zu sparen und Fehler zu vermeiden? '
+troubleshooting_article_listing_image: {  }
+product_listing_image: {  }
+business_process_listing_image: {  }
+technical_process_listing_image: {  }
+technical_processes_search_title: 'Wonach suchen Sie?'
+technical_processes_search_placeholder: 'Geben Sie ein Stichwort ein'
+products_search_title: 'Wonach suchen Sie?'
+products_search_placeholder: 'Geben Sie ein Stichwort ein'
+business_processes_search_title: 'Wonach suchen Sie?'
+business_processes_search_placeholder: 'Geben Sie ein Stichwort ein'
+help_search_title: 'Wonach suchen Sie?'
+help_search_placeholder: 'Geben Sie ein Stichwort ein'
+langcode: de

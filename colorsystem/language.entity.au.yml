@@ -1,0 +1,15 @@
+uuid: 0e2d0e19-cecd-4707-ae8d-43f7c550fbff
+langcode: au
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: au
+label: Australia
+direction: ltr
+weight: -4
+locked: false

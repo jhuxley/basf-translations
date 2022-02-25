@@ -1,0 +1,14 @@
+uuid: ee950b04-77a8-41bc-a155-67b5cbfca6d4
+langcode: nl
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: 'BE (Dutch)'
+id: nl
+label: 'Belgium (Dutch)'
+direction: ltr
+weight: -9
+locked: false

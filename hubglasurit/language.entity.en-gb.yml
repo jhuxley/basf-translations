@@ -1,0 +1,14 @@
+uuid: 3869997c-b83e-471c-8521-daded3e0cd28
+langcode: en-gb
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: UK
+id: en-gb
+label: UK
+direction: ltr
+weight: 10
+locked: false

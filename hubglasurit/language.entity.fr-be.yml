@@ -1,0 +1,14 @@
+uuid: 249152f1-bc17-428b-a22d-1cff238b80e3
+langcode: fr-be
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: BE-FR
+id: fr-be
+label: 'Belgium (French)'
+direction: ltr
+weight: -8
+locked: false

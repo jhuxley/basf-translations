@@ -1,0 +1,16 @@
+block_title: 'Zur Sammlung hinzufügen'
+new_collection_link_text: 'Erstelle neue Sammlung'
+back_link_text: Zurück
+rename_collection_text: 'Sammlung umbenennen'
+share_collection_text: 'Sammlung teilen'
+delete_collection_text: 'Sammlung löschen'
+download_collection_text: 'Sammlung herunterladen'
+no_collections_found_text: 'Keine Sammlungen gefunden'
+collection_download_error_text: 'Diese Sammlung kann nicht heruntergeladen werden'
+manage_collections_plural_text: 'Sammlungen verwalten'
+manage_collection_singular_text: 'Sammlung verwalten'
+no_items_found_text: 'Keine Elemente in dieser Sammlung gefunden'
+followed_collections_text: 'Followed Collections'
+follow_this_collection_text: 'Followed this collection'
+delete_collection_confirmation_text: 'Sind Sie sicher, dass Sie diese Sammlung löschen möchten?'
+langcode: de

@@ -1,0 +1,15 @@
+uuid: 07e68f7c-890d-4768-b10f-db8ce81fbbd7
+langcode: fr-ch
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: fr-ch
+label: 'Swiss (French)'
+direction: ltr
+weight: 10
+locked: false

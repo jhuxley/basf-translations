@@ -1,0 +1,14 @@
+uuid: c6359c24-3a80-4b93-9b6a-2091689bc9c8
+langcode: it
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: Italy
+id: it
+label: Italy
+direction: ltr
+weight: -4
+locked: false

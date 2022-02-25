@@ -1,0 +1,5 @@
+basf_view_permission: null
+view_permission_intro_text: 'Please login'
+view_permission_button_text: Login
+_core:
+  default_config_hash: Jv5qN2aYQ6WVFcdA_EGA8pdlxakULjAaGCOIuozYbuY

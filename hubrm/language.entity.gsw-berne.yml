@@ -1,0 +1,18 @@
+uuid: 9c198084-6ade-42f4-aad6-c5a5b03495a7
+langcode: gsw-berne
+status: true
+dependencies:
+  module:
+    - basf_languages
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+  basf_languages:
+    negotiation_abbreviation: de-ch
+id: gsw-berne
+label: 'Swiss German'
+direction: ltr
+weight: 9
+locked: false
