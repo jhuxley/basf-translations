@@ -1,9 +1,0 @@
-uuid: 52b2971a-3d40-422a-aa48-24ee66a7b15b
-langcode: de
-status: true
-dependencies: {  }
-id: de
-label: Germany
-direction: ltr
-weight: -4
-locked: false

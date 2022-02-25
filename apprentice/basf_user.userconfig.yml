@@ -1,8 +1,0 @@
-terms: "<p>I have read and understood the terms and conditions</p>\r\n"
-data_topics: "<p>Data topics</p>\r\n"
-pending_email_body: 'Your application for an account is currently pending approval.'
-accepted_email_body: 'Your application has been accepted.'
-rejected_email_body: 'Your application has been rejected.'
-temp_access: false
-temp_access_days: 14
-langcode: de

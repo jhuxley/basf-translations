@@ -1,9 +1,0 @@
-uuid: f15e6620-a638-4a29-9de1-ec740cf2fa36
-langcode: DE-AT
-status: true
-dependencies: {  }
-id: DE-AT
-label: Austria
-direction: ltr
-weight: 2
-locked: false

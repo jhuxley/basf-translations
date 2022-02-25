@@ -1,9 +1,0 @@
-uuid: 54bebd52-3f91-40e4-9c59-927efc711716
-langcode: en
-status: true
-dependencies: {  }
-id: us
-label: 'United States of America'
-direction: ltr
-weight: 7
-locked: false

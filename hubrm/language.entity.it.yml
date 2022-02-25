@@ -1,9 +1,0 @@
-uuid: 7b2fa6c1-e576-4a08-b321-e4820c8d3773
-langcode: it
-status: true
-dependencies: {  }
-id: it
-label: Italy
-direction: ltr
-weight: -3
-locked: false
