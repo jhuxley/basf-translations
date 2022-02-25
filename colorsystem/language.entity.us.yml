@@ -1,0 +1,15 @@
+uuid: 662f2b56-9c72-42fb-afc5-e5dcfd127f58
+langcode: us
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: us
+label: 'United States of America'
+direction: ltr
+weight: 6
+locked: false

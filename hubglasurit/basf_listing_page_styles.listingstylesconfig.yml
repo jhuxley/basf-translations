@@ -1,0 +1,18 @@
+_core:
+  default_config_hash: _mzpvk_UnTouJIzIN4szlqi_K-yB55mQk_1TuIak-xs
+troubleshooting_article_listing_text: 'Here you can find helpful information if there is already a defect in the paint'
+product_listing_text: "Here you can search for all Glasurit Products used for Passenger Car repairs.\r\nYou will find the TDS and MSDS on article level.\r\n"
+business_process_listing_text: 'Here you can find al process used to make the bodyshop more efficent, productiv and to optimize process'
+technical_process_listing_text: 'Find out how to use the Glasurit Products and which process can be applied how'
+troubleshooting_article_listing_image: {  }
+product_listing_image: {  }
+business_process_listing_image: {  }
+technical_process_listing_image: {  }
+technical_processes_search_title: 'What are you looking for?'
+technical_processes_search_placeholder: 'Enter a keyword or process ID'
+products_search_title: 'What are you looking for?'
+products_search_placeholder: 'Enter a keyword or product ID'
+business_processes_search_title: 'What are you looking for?'
+business_processes_search_placeholder: 'Enter a keyword or process ID'
+help_search_title: 'What are you looking for?'
+help_search_placeholder: 'Enter a keyword or term'

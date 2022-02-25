@@ -1,0 +1,15 @@
+uuid: ee950b04-77a8-41bc-a155-67b5cbfca6d4
+langcode: nl
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: nl
+label: 'Belgium (Dutch)'
+direction: ltr
+weight: -3
+locked: false

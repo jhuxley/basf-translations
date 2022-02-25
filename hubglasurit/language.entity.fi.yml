@@ -1,0 +1,15 @@
+uuid: b9cfa39f-f84a-4efe-b8b4-48a948d98778
+langcode: fi
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: fi
+label: Finnish
+direction: ltr
+weight: 14
+locked: false

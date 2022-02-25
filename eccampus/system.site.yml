@@ -1,0 +1,15 @@
+uuid: 1f762e69-567d-44d9-8cc9-602fc27b23d7
+name: 'Online Plattform'
+mail: tom.koehler@basf.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node/4
+admin_compact_mode: false
+weight_select_max: 100
+langcode: de
+default_langcode: de
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
+mail_notification: ''

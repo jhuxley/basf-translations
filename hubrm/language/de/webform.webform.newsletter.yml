@@ -1,2 +1,0 @@
-elements: "actions:\n  '#title': absenden\n  '#submit__label': abonnieren\n"
-description: 'Newsletter Abonnement.'

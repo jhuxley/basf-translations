@@ -1,0 +1,9 @@
+uuid: 5b408b91-9273-4cf6-a544-e50310270f17
+langcode: pl
+status: true
+dependencies: {  }
+id: pl
+label: Poland
+direction: ltr
+weight: 6
+locked: false

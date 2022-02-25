@@ -1,0 +1,7 @@
+basf_content_feedback: null
+_core:
+  default_config_hash: Q2MOtmDb5berr2T5amDaIkfXKxmyX-CXFo-Bx32I-e4
+helpfulness_question: 'War das hilfreich für Sie?'
+helpfulness_detail_question: 'Geben Sie uns gerne mehr Feedback zu Ihren Erfahrungen mit dieser Seite.'
+feedback_thank_you_message: 'Danke für Ihr Feedback. Wir nutzen dies, um unsere Plattform zu verbessern.'
+langcode: de

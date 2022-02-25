@@ -1,0 +1,18 @@
+uuid: 63446653-767d-4764-bd64-6a9975d48cc2
+langcode: zh-hans
+status: true
+dependencies:
+  module:
+    - basf_download
+    - disable_language
+third_party_settings:
+  basf_download:
+    restrict_pdf_access: 1
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: zh-hans
+label: 中國
+direction: ltr
+weight: 4
+locked: false

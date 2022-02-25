@@ -1,8 +1,0 @@
-display:
-  default:
-    display_options:
-      exposed_form:
-        options:
-          submit_button: Apply
-          exposed_sorts_label: 'Sortuj według'
-      use_more_text: More

@@ -1,0 +1,8 @@
+terms: "<p>Ich habe die Geschäftsbedingungen gelesen und verstanden.</p>\r\n"
+data_topics: "<p>Data topics</p>\r\n"
+pending_email_body: 'Ihre Anfrage für einen Account befindet sich zurzeit im Genehmigungsprozess.'
+accepted_email_body: 'Ihre Anfrage wurde angenommen.'
+rejected_email_body: 'Ihre Anfrage wurde abgelehnt.'
+temp_access: true
+temp_access_days: 14
+langcode: de

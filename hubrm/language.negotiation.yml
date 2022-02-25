@@ -1,0 +1,53 @@
+session:
+  parameter: language
+url:
+  source: path_prefix
+  prefixes:
+    en: ''
+    au: au
+    nl: nl
+    fr-be: fr-be
+    nl-nl: nl-nl
+    fr: fr
+    de: de
+    it: it
+    za: za
+    es: es
+    sv: sv
+    DE-AT: DE-AT
+    ru: ru
+    EN-145: EN-145
+    pt-pt: pt-pt
+    ja: ja
+    pl: pl
+    us: us
+    zh-hans: zh-hans
+    gsw-berne: gsw-berne
+    fr-ch: fr-ch
+    it-ch: it-ch
+  domains:
+    en: ''
+    au: ''
+    nl: ''
+    fr-be: ''
+    nl-nl: ''
+    fr: ''
+    de: ''
+    it: ''
+    za: ''
+    es: ''
+    sv: ''
+    DE-AT: ''
+    ru: ''
+    EN-145: ''
+    pt-pt: ''
+    ja: ''
+    pl: ''
+    us: ''
+    zh-hans: ''
+    gsw-berne: ''
+    fr-ch: ''
+    it-ch: ''
+selected_langcode: site_default
+_core:
+  default_config_hash: uEePITI9tV6WqzmsTb7MfPCi5yPWXSxAN1xeLcYFQbM

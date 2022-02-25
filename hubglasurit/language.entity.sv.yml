@@ -1,0 +1,9 @@
+uuid: cc186c22-5c13-4135-8604-ee1438ca2775
+langcode: sv
+status: true
+dependencies: {  }
+id: sv
+label: Sweden
+direction: ltr
+weight: 1
+locked: false

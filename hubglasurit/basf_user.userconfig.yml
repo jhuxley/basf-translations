@@ -1,0 +1,7 @@
+terms: "<p>I have read and understood the <a href=\"/privacy-policy\">Privacy Policy</a></p>\r\n"
+data_topics: "<p><a href=\"/disclaimer\">Disclaimer</a></p>\r\n"
+pending_email_body: 'Your application for an account is currently pending approval.'
+accepted_email_body: "Your application has been accepted.\r\n\r\nYou are now able to log in under: https://knowhow.glasurit.com/user/login\r\n\r\nThank you and have fun exploring Glasurit Know How!"
+rejected_email_body: "Dear User,\r\n\r\nthank you for your request and interest in our platform. \r\n\r\nUnfortunately, we couldn’t grant you access. This could be due to the following reasons:\r\n-\tThe platform is currently not promoted in your country or your language\r\n-\tYou might not be an active customer of our paint lines\r\n\r\nIf these reasons don’t apply to you, please contact your local paint supply contact.\r\n\r\nBest regards,\r\n\r\nYour Support Team \r\n"
+temp_access: false
+temp_access_days: 0

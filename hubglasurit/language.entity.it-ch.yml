@@ -1,0 +1,15 @@
+uuid: 0fc55e05-cd3d-43b1-acac-4992a5780a4f
+langcode: it-ch
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: it-ch
+label: 'Swiss (Italian)'
+direction: ltr
+weight: 13
+locked: false

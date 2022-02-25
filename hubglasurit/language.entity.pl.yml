@@ -1,0 +1,9 @@
+uuid: eec96e30-cade-4980-be4a-9ecd596568e8
+langcode: pl
+status: true
+dependencies: {  }
+id: pl
+label: Poland
+direction: ltr
+weight: 8
+locked: false

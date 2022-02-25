@@ -1,0 +1,9 @@
+greeting_name_prefix_text: Hello
+your_documents_text: 'Your Documents'
+manage_account_text: 'Manage your account'
+log_out_text: 'Log out'
+log_in_text: 'Log in'
+your_collections_link_text: 'Your Collections'
+training_documents_text: 'Training Documents'
+langcode: de
+shared_training_documents_text: 'Followed Training Documents'

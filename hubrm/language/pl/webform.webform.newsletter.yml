@@ -1,5 +1,0 @@
-title: Biuletyn
-description: 'Subskrypcja biuletynu.'
-elements: "email:\n  '#title': e-mail\nactions:\n  '#submit__label': 'Zapisz się'\n"
-settings:
-  confirmation_message: 'Dziękujemy za zapisanie się do biuletynu.'
