@@ -1,5 +1,5 @@
 terms: '<p>J''ai lu et compris les <a href="/fr/privacy-policy">modalités et conditions</a></p>.'
 data_topics: '<p><a href="/fr/BEFR_disclaimer">Disclaimer</a><</p>'
 pending_email_body: 'Votre demande de compte est actuellement en attente d''approbation.'
-accepted_email_body: "Votre demande a été acceptée.\r\n\r\nVous pouvez maintenant vous connecter à l'adresse suivante : https://knowhow.glasurit.com/user/login\r\n\r\nMerci et amusez-vous bien à découvrir le savoir-faire de Glasurit !"
+accepted_email_body: "Votre demande a été acceptée.\r\n\r\nVous pouvez maintenant vous connecter à l'adresse suivante : https://info.rmpaint.com/user/login\r\n\r\nMerci et amusez-vous bien à découvrir le savoir-faire de RM Paint!"
 rejected_email_body: "Cher utilisateur,\r\n\r\nnous vous remercions de votre demande et de l'intérêt que vous portez à notre plate-forme. \r\n\r\nMalheureusement, nous n'avons pas pu vous accorder l'accès. Cela pourrait être dû aux raisons suivantes :\r\n- La plate-forme n'est actuellement pas promue dans votre pays ou votre langue\r\n- Vous n'êtes peut-être pas un client actif de nos chaînes de peinture\r\n\r\nSi ces raisons ne s'appliquent pas à vous, veuillez contacter votre fournisseur de peinture local.\r\n\r\nVeuillez agréer, Monsieur, l'expression de mes salutations distinguées,\r\n\r\nVotre Team Support\r\n"
