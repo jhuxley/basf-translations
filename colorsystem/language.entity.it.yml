@@ -1,0 +1,15 @@
+uuid: c6359c24-3a80-4b93-9b6a-2091689bc9c8
+langcode: it
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: it
+label: Italy
+direction: ltr
+weight: 0
+locked: false

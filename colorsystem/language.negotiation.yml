@@ -1,0 +1,39 @@
+session:
+  parameter: language
+url:
+  source: path_prefix
+  prefixes:
+    en: ''
+    de: de
+    fr: fr
+    sv: sv
+    es: es
+    it: it
+    nl: nl
+    fr-be: fr-be
+    zh-hans: zh-hans
+    au: au
+    za: za
+    es-419: es-419
+    DE-AT: DE-AT
+    ru: ru
+    us: us
+    EN-145: EN-145
+    da: da
+    pt-pt: pt-pt
+    pl: pl
+  domains:
+    en: ''
+    au: ''
+    za: ''
+    es-419: ''
+    DE-AT: ''
+    ru: ''
+    us: ''
+    EN-145: ''
+    da: ''
+    pt-pt: ''
+    pl: ''
+selected_langcode: site_default
+_core:
+  default_config_hash: uEePITI9tV6WqzmsTb7MfPCi5yPWXSxAN1xeLcYFQbM

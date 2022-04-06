@@ -1,0 +1,14 @@
+uuid: 948ecc96-0d9f-4914-a46a-784a371490d0
+langcode: es-419
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: S/A
+id: es-419
+label: 'South America'
+direction: ltr
+weight: -1
+locked: false

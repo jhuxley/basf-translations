@@ -1,0 +1,19 @@
+_core:
+  default_config_hash: _mzpvk_UnTouJIzIN4szlqi_K-yB55mQk_1TuIak-xs
+troubleshooting_article_listing_text: ''
+product_listing_text: ''
+business_process_listing_text: ''
+technical_process_listing_text: ''
+troubleshooting_article_listing_image:
+  - '35'
+product_listing_image: {  }
+business_process_listing_image: {  }
+technical_process_listing_image: {  }
+technical_processes_search_title: 'What are you looking for? '
+technical_processes_search_placeholder: 'Enter a keyword or process ID '
+products_search_title: 'What are you looking for?'
+products_search_placeholder: 'Enter a keyword or product ID '
+business_processes_search_title: 'What are you looking for?'
+business_processes_search_placeholder: 'Enter a keyword or process ID'
+help_search_title: 'What are you looking for?'
+help_search_placeholder: 'Enter a keyword or term'

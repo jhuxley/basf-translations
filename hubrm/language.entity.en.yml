@@ -1,0 +1,16 @@
+uuid: 2c80f54a-1078-4d26-b90c-640c15759367
+langcode: en
+status: true
+dependencies:
+  module:
+    - basf_languages
+third_party_settings:
+  basf_languages:
+    negotiation_abbreviation: Int
+_core:
+  default_config_hash: lBXDpdDPXQtrfTJQhr6MjRJJEEyYSoRJ0acdvHLsWeA
+id: en
+label: International
+direction: ltr
+weight: -10
+locked: false

@@ -1,0 +1,9 @@
+uuid: e3d0ff86-22b3-4550-9477-7a0d4d091c49
+langcode: za
+status: true
+dependencies: {  }
+id: za
+label: 'South Africa'
+direction: ltr
+weight: -2
+locked: false

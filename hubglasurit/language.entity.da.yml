@@ -1,0 +1,15 @@
+uuid: 593fc094-a9a8-4c58-8096-00d8e1f09df0
+langcode: da
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: da
+label: Denmark
+direction: ltr
+weight: 6
+locked: false

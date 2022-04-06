@@ -1,0 +1,15 @@
+uuid: cc186c22-5c13-4135-8604-ee1438ca2775
+langcode: sv
+status: true
+dependencies:
+  module:
+    - disable_language
+third_party_settings:
+  disable_language:
+    disable: 1
+    redirect_language: en
+id: sv
+label: Sweden
+direction: ltr
+weight: 3
+locked: false

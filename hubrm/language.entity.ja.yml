@@ -1,0 +1,14 @@
+uuid: 8e99365e-9229-4bac-9e3d-5cc20db0017e
+langcode: ja
+status: true
+dependencies:
+  module:
+    - basf_download
+third_party_settings:
+  basf_download:
+    restrict_pdf_access: 1
+id: ja
+label: Japan
+direction: ltr
+weight: 5
+locked: false

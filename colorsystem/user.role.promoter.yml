@@ -1,0 +1,10 @@
+uuid: a303c46e-a834-436b-a1a3-7aa90a079297
+langcode: en
+status: true
+dependencies: {  }
+id: promoter
+label: 'Parts manager'
+weight: 9
+is_admin: null
+permissions:
+  - 'display eu cookie compliance popup'
