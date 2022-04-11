@@ -2,15 +2,10 @@ activity_type_filter: 'Tipo Attività'
 document_edited: 'Documento modificato'
 document_published: 'Documento pubblicato'
 document_shared: 'Documento condiviso'
-account_changed: 'Account changed'
-content_type_filter: 'Content Type'
+content_type_filter: 'Tipologia argomento'
 product: Prodotti
 troubleshooting_article: 'Troubleshooting Articles'
-business_process: 'Business Process'
-technical_process: 'Technical Process'
-collection_type_filter: 'Collection Type'
-your_collections: 'User Collections'
 followed_collections: 'Raccolte seguite'
-apply_filter_button_text: Apply
 notifications_link_text: Notifiche
 unread_notifications_link_text: 'Notifiche non lette'
+added_to_collection: 'Documento aggiunto alla raccolta seguita'

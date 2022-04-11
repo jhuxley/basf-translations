@@ -1,13 +1,18 @@
 content_type_filter: Kategorien
 product: Produkte
-business_process: 'Services'
+business_process: Services
 technical_process: Prozesse
 troubleshooting_article: 'Artikel zur Fehlerbehebung'
 other: Andere
 filter_help: 'Filter Hilfe'
 show_filters: 'Filter anzeigen'
-hide_filters: 'Filter verstecken'
-sort_by: 'Sort by'
+hide_filters: 'Filter ausblenden'
+sort_by: 'Sortieren nach'
 sort_by_relevance: Relevanz
 sort_by_title: Title
 sort_by_changed: Geändert
+business_processes_empty_text: "Leider stimmten keine Ergebnisse mit Ihrer Suche überein.\r\n\r\nSuchvorschläge: Überprüfen Sie Ihre Rechtschreibung, probieren Sie allgemeinere Wörter aus, probieren Sie verschiedene Wörter aus, die dasselbe bedeuten."
+technical_processes_empty_text: "Leider stimmten keine Ergebnisse mit Ihrer Suche überein.\r\n\r\nSuchvorschläge: Überprüfen Sie Ihre Rechtschreibung, probieren Sie allgemeinere Wörter aus, probieren Sie verschiedene Wörter aus, die dasselbe bedeuten."
+help_empty_text: "Leider stimmten keine Ergebnisse mit Ihrer Suche überein.\r\n\r\nSuchvorschläge: Überprüfen Sie Ihre Rechtschreibung, probieren Sie allgemeinere Wörter aus, probieren Sie verschiedene Wörter aus, die dasselbe bedeuten."
+search_empty_text: "Leider stimmten keine Ergebnisse mit Ihrer Suche überein.\r\n\r\nSuchvorschläge: Überprüfen Sie Ihre Rechtschreibung, probieren Sie allgemeinere Wörter aus, probieren Sie verschiedene Wörter aus, die dasselbe bedeuten."
+products_empty_text: "Leider stimmten keine Ergebnisse mit Ihrer Suche überein.\r\n\r\nSuchvorschläge: Überprüfen Sie Ihre Rechtschreibung, probieren Sie allgemeinere Wörter aus, probieren Sie verschiedene Wörter aus, die dasselbe bedeuten."

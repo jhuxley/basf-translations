@@ -1,3 +1,5 @@
 title: 'BASF Coatings kontaktieren'
-description: 'Verwenden Sie dieses Webformular, um mit der für Sie relevantesten Person bei BASF in Kontakt zu treten'
+description: 'Verwenden Sie dieses Webformular für Ihre Anfrage.'
 elements: "e_mail_address:\n  '#title': 'E-mail  Addresse'\n"
+settings:
+  confirmation_message: 'Vielen Dank für Ihre Anfrage.'
